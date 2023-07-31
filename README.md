@@ -51,6 +51,25 @@ make cloud-metabase   # this command will forward Metabase port from EC2 to your
 
 # Note
 
+- AWS CLI Profile Configuration: Quick and Easy Setup for Beginners
+
+```bash
+
+$ aws configure
+
+AWS Access Key ID [None] : YOUR_KEY_ID
+AWS Secret Access Key [None] : YOUR_SECRET_KEY
+Default region name [None] : your_region
+Default output format [None] : # you can leave default value (json) by typing Enter
+
+# Check
+
+$ ls -la ~/.aws/
+
+```
+
+<br>
+
 - [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli) install the autocomplete package.
 
 ```python
