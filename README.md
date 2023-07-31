@@ -12,7 +12,8 @@ set up data infrastructure with code
 
 <h3>Project Structure</h3> <br>
 
-```
+```ruby
+
 - LICENCE
 - Makefile
 - containers
