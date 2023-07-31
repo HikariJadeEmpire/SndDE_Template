@@ -4,7 +4,7 @@ set up data infrastructure with code
 # <h3>source</h3>
 [*Source1*](https://github.com/josephmachado/data_engineering_project_template) , [*Source2*](https://www.startdataengineering.com/post/data-engineering-projects-with-free-template/)
 
-# DATA Infrstructure
+# DATA Infrastructure
 
 ![Personal visualization - Snd_DE](https://github.com/HikariJadeEmpire/SndDE_Template/assets/118663358/7bbb7561-6a90-481c-955b-d9479c523fe8)
 
