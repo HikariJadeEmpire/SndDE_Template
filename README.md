@@ -4,7 +4,13 @@ set up data infrastructure with code
 # <h3>source</h3>
 *source :* [CLICK!](https://github.com/josephmachado/data_engineering_project_template)
 
-# Setup infra
+# DATA Infrstructure
+
+![Personal visualization - Snd_DE](https://github.com/HikariJadeEmpire/SndDE_Template/assets/118663358/7bbb7561-6a90-481c-955b-d9479c523fe8)
+
+<br>
+
+# Setup infrastructure
 You can create your GitHub repository based on this template by clicking on the *Use this template* button in the ```SndDE_Template``` repository. Clone your repository and replace content in the following files
 
 
