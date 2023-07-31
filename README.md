@@ -88,6 +88,8 @@ make cloud-metabase   # this command will forward Metabase port from EC2 to your
 
 ```
 
+<br>
+
 # Note
 
 - AWS CLI Profile Configuration: Quick and Easy Setup for Beginners
