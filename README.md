@@ -10,6 +10,44 @@ set up data infrastructure with code
 
 <br>
 
+<h3>Project Structure</h3> <br>
+
+```
+- LICENCE
+- Makefile
+- containers
+  - airflow
+    - Dockerfile
+    - requirements.txt
+- dags
+- docker-compose.yml
+- env
+- logs
+- migrations ( Folder where DB migrations are kept )
+  - 20221023_01_JVZ9p-create-bitcoin-schema.py
+- plugins
+- temp
+- terraform ( Folder for IAC config files )
+  - main.tf
+  - output
+  - terraform.tfstate
+  - terraform.tfstate.backup
+  - variable.tf
+- tests ( Folder for test files )
+  - dags
+    - __pycache__
+    - test_dag_validity.py
+
+- github
+  - CODEOWNERS
+  - workflows
+    - cd.yml
+    - ci.yml
+
+```
+
+<br>
+
 # Setup infrastructure
 You can create your GitHub repository based on this template by clicking on the *Use this template* button in the ```SndDE_Template``` repository. Clone your repository and replace content in the following files
 
