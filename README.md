@@ -62,6 +62,10 @@ You can create your GitHub repository based on this template by clicking on the 
 Run the following commands in your project directory.
 
 ```python
+# Clone and cd into the project directory.
+
+git clone https://github.com/HikariJadeEmpire/SndDE_Template.git
+cd beginner_de_project
 
 # Local run & test
 
