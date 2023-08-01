@@ -128,3 +128,6 @@ terraform -install-autocomplete
 sudo apt install libssl-dev libffi-dev libncurses5-dev zlib1g zlib1g-dev libreadline-dev libbz2-dev libsqlite3-dev make gcc
 
 ```
+
+<br>
+
