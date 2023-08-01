@@ -121,13 +121,8 @@ terraform -install-autocomplete
 
 <br>
 
-- for  ```[Makefile:60: warehouse-migration] Error 1```
-
-```python
-
-sudo apt install libssl-dev libffi-dev libncurses5-dev zlib1g zlib1g-dev libreadline-dev libbz2-dev libsqlite3-dev make gcc
-
-```
+<!--
+-->
 
 <br>
 
