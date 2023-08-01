@@ -39,6 +39,7 @@ set up data infrastructure with code
     - __pycache__
     - test_dag_validity.py
 
+# Github Actions Defining
 - github
   - CODEOWNERS
   - workflows
@@ -65,7 +66,7 @@ Run the following commands in your project directory.
 # Clone and cd into the project directory.
 
 git clone https://github.com/HikariJadeEmpire/SndDE_Template.git
-cd beginner_de_project
+cd SndDE_Template
 
 # Local run & test
 
