@@ -12,7 +12,7 @@ set up data infrastructure with code
 
 <h3>Project Structure</h3> <br>
 
-```ruby
+```
 
 - LICENCE
 - Makefile
@@ -39,6 +39,7 @@ set up data infrastructure with code
     - __pycache__
     - test_dag_validity.py
 
+# Github Actions Defining
 - github
   - CODEOWNERS
   - workflows
@@ -62,6 +63,10 @@ You can create your GitHub repository based on this template by clicking on the 
 Run the following commands in your project directory.
 
 ```python
+# Clone and cd into the project directory.
+
+git clone https://github.com/HikariJadeEmpire/SndDE_Template.git
+cd SndDE_Template
 
 # Local run & test
 
@@ -121,10 +126,8 @@ terraform -install-autocomplete
 
 <br>
 
-- for  ```[Makefile:60: warehouse-migration] Error 1```
+<!--
+-->
 
-```python
+<br>
 
-sudo apt install libssl-dev libffi-dev libncurses5-dev zlib1g zlib1g-dev libreadline-dev libbz2-dev libsqlite3-dev make gcc
-
-```
